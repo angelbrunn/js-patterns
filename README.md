@@ -31,7 +31,7 @@
 - [Strategy](https://github.com/angelbrunn/js-patterns/blob/master/Behavioral/Strategy.js)
 - [Template](https://github.com/angelbrunn/js-patterns/blob/master/Behavioral/Template.js)
 
-### Common Desing Pattern in the Front End
+### Common Desing Pattern in Front End
 
 Check and press atention are this:
 
