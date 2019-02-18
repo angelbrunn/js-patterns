@@ -30,3 +30,22 @@
 - [State](https://github.com/angelbrunn/js-patterns/blob/master/Behavioral/State.js)
 - [Strategy](https://github.com/angelbrunn/js-patterns/blob/master/Behavioral/Strategy.js)
 - [Template](https://github.com/angelbrunn/js-patterns/blob/master/Behavioral/Template.js)
+
+### Common Desing Pattern in the Front End
+
+Check and press atention are this:
+
+WRAPPER O ADAPTADOR
+https://es.wikipedia.org/wiki/Adaptador_(patr%C3%B3n_de_dise%C3%B1o)
+
+DECORADOR
+https://es.wikipedia.org/wiki/Decorator_(patr%C3%B3n_de_dise%C3%B1o)
+
+PROTOTYPE
+https://es.wikipedia.org/wiki/Prototipo_(patr%C3%B3n_de_dise%C3%B1o)
+
+BUILDER
+https://es.wikipedia.org/wiki/Builder_(patr%C3%B3n_de_dise%C3%B1o)
+
+COMPOSITE
+https://es.wikipedia.org/wiki/Composite_(patr%C3%B3n_de_dise%C3%B1o)
