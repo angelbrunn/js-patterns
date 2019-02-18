@@ -6,7 +6,7 @@
 
 ### Creational
 
-- [Constructor](https://github.com/angelbrunn/js-patterns/blob/master/Creational/ChainOfResponsibility.js)
+- [Constructor](https://github.com/angelbrunn/js-patterns/blob/master/Creational/Constructor.js)
 - [Factory](https://github.com/angelbrunn/js-patterns/blob/master/Creational/Factory.js)
 - [Prototype](https://github.com/angelbrunn/js-patterns/blob/master/Creational/Prototype.js)
 - [Singleton](https://github.com/angelbrunn/js-patterns/blob/master/Creational/Singleton.js)
